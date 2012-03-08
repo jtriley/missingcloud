@@ -344,6 +344,13 @@
 		    "storageGB" : [10, 160],
 		    "i/o" : "moderate",
 		    "arch" : [32]},
+		"m1.medium" : {
+		    "compute_units" : 2,
+		    "gpus" : 0,
+		    "ramMB" : 3750,
+		    "storageGB" : [10, 410],
+		    "i/o" : "moderate",
+		    "arch" : [32,64]},
 		"m1.large" : {
 		    "compute_units" : 4,
 		    "gpus" : 0,
